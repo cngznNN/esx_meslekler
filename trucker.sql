@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `truckerLevel` INT(160) DEFAULT 0
